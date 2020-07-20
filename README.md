@@ -4,6 +4,7 @@ Notes organized using [Visual Studio Code](https://code.visualstudio.com/) with 
 
 Also requires [markdown+math](https://marketplace.visualstudio.com/items?itemName=goessner.mdmath) to display equations.
 
+Main topics:
 - [[machine_learning]]
 - [[computer_science]]
 - [[cryptography]]

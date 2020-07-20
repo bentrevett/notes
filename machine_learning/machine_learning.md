@@ -30,6 +30,7 @@ Lectures:
 - https://github.com/Atcold/pytorch-Deep-Learning
 - https://deeplearning.ai
 - https://www.coursera.org/learn/machine-learning
+- https://deepmind.com/learning-resources
 
 Blogs:
 - https://distill.pub/

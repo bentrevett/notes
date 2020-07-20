@@ -6,6 +6,7 @@ The general concept is that the model should learn representations so that simil
 
 Contrastive learning is used by [[siamese_neural_network]] models as well as algorithms such as [[simCLR]] and [[CURL]].
 
-Papers:
+### Resources
 
-https://arxiv.org/abs/2004.11362
+- https://arxiv.org/abs/2004.11362
+- https://arxiv.org/abs/2006.09882

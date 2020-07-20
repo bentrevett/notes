@@ -1,5 +1,7 @@
 # Language Modelling
 
+Language modelling is a [[natural_language_processing]] task which involves training a language model.
+
 Definitively a language model (LM) is a probability distribution over sequences of words.
 
 $$P(x_0,\dots,x_t)$$

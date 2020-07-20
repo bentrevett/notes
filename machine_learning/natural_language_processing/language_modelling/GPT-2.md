@@ -5,6 +5,7 @@ GPT-2 is an architecture for [[language_modelling]]. It is a large [[transformer
 ### Resources
 
 - https://openai.com/blog/better-language-models/
+- https://www.youtube.com/watch?v=T0I88NhR_9M
 - https://minimaxir.com/2020/01/twitter-gpt2-bot/
 - https://minimaxir.com/2019/09/howto-gpt2/
 - https://github.com/orange-erotic-bible/orange-erotic-bible
