@@ -18,7 +18,7 @@ Common areas for machine learning algorithms:
 
 - [[natural_language_processing]]
 - [[computer_vision]]
-- [[generative_models]]
+- [[generative_modelling]]
 
 ### Resources
 
