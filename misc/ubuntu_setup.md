@@ -23,7 +23,7 @@
 - `chmod +x Miniconda3-latest-Linux-x86_64.sh`
 - `./Miniconda3-latest-Linux-x86_64.sh`
 - Choose yes/OK to everything
-- Create environment with `conda create -n <NAME>`
+- Create environment with `conda create -n <NAME> python=x.y` where `x.y` is the python version you want, currently the latest is 3.8
 - Activate environment with `conda activate <NAME>`
 - Install packages with `conda install <PACKAGE(S)>`, for example: `conda install jupyter notebook matplotlib numpy`
 
