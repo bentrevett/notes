@@ -8,3 +8,4 @@
 - https://minimaxir.com/2020/07/gpt3-expectations/
 - https://www.gwern.net/GPT-3
 - https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html
+- https://jalammar.github.io/how-gpt3-works-visualizations-animations/
