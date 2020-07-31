@@ -9,3 +9,4 @@
 - https://www.gwern.net/GPT-3
 - https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html
 - https://jalammar.github.io/how-gpt3-works-visualizations-animations/
+- https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype
