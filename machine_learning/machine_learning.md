@@ -5,7 +5,6 @@ The three main branches of machine learning are:
 - [[supervised_learning]]
 - [[unsupervised_learning]]
 - [[reinforcement_learning]]
-
 - [[natural_language_processing]]
 - [[computer_vision]]
 
