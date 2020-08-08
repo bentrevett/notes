@@ -9,3 +9,5 @@ The generator and the discriminator are adversaries and the desired outcome is f
 ### Resources
 
 - https://github.com/kwotsin/mimicry
+- Tricks for training GANs: https://www.reddit.com/r/MachineLearning/comments/i085a8/d_best_gan_tricks/
+- https://medium.com/datadriveninvestor/understanding-generative-adversarial-networks-b03d34445756

@@ -57,6 +57,7 @@ Some notable algorithms are:
 - [[AlphaZero]]
 
 Other related articles:
+- [[reinforcement_learning_frameworks]]
 - [[semi-supervised_reinforcement_learning]]
 - [[text-based_reinforcement_learning]]
 
@@ -64,5 +65,9 @@ Other related articles:
 
 - https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e
 - https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
+- https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
 - http://www.scholarpedia.org/article/Reinforcement_learning
+- https://www.davidsilver.uk/teaching/
+- https://sites.google.com/view/deep-rl-bootcamp/lectures
+- http://rail.eecs.berkeley.edu/deeprlcourse/

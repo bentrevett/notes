@@ -22,14 +22,21 @@ Common areas for machine learning algorithms:
 ### Resources
 
 Textbooks:
+- https://mentorcruise.com/books/ml/
 - https://web.stanford.edu/~hastie/ElemStatLearn/
 - https://www.deeplearningbook.org/
+
 
 Lectures:
 - https://github.com/Atcold/pytorch-Deep-Learning
 - https://deeplearning.ai
 - https://www.coursera.org/learn/machine-learning
 - https://deepmind.com/learning-resources
+- https://course.fullstackdeeplearning.com/
+
+Courses:
+- https://d2l.ai/
+- https://fleuret.org/ee559/
 
 Blogs:
 - https://distill.pub/

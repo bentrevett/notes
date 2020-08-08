@@ -14,4 +14,4 @@ Add files you want to commit with `git add <FILE_NAME>`
 
 Do a commit with `git commit -m "<MESSAGE>"`
 
-Push with `git push`
+Push with `git push` 
