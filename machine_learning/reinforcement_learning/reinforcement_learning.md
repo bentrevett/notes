@@ -27,6 +27,7 @@ There is quite a lot of terminology for RL:
 - [[model-based_reinforcement_learning]]
 - [[model-free_reinforcement_learning]]
 - [[monte_carlo]]
+- [[multi-agent_reinforcement_learning]]
 - [[observation]]
 - [[off-policy]]
 - [[offline_reinforcement_learning]]

@@ -10,3 +10,7 @@ Common areas of research in NLP are:
 - [[natural_language_generation]]
 - [[part-of-speech_tagging]]
 - [[named_entity_recognition]]
+
+### Resources
+
+- https://github.com/kk7nc/Text_Classification covers a lot of terminology 
