@@ -13,4 +13,5 @@ Common areas of research in NLP are:
 
 ### Resources
 
-- https://github.com/kk7nc/Text_Classification covers a lot of terminology 
+- https://github.com/kk7nc/Text_Classification covers a lot of terminology
+- https://github.com/ivan-bilan/The-NLP-Pandect

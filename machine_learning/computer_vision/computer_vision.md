@@ -7,5 +7,6 @@ Common areas of research in computer vision are:
 - [[object_detection]]
 - [[image_segmentation]]
 
-$\sum^T_{t=0} x = t$
+### Resources
 
+- https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
