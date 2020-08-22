@@ -15,3 +15,13 @@ Add files you want to commit with `git add <FILE_NAME>`
 Do a commit with `git commit -m "<MESSAGE>"`
 
 Push with `git push` 
+
+Want to merge your branch with a master that has been updated so you can't automatically merge?
+- `git checkout your_branch`
+- `git fetch origin`
+- `git merge origin/master`
+- will tell you which files have merge conflicts
+  - `<<<<<<<` indicates your branch edits
+  - `=======` indicates end of the end of this section and beginning of edits from attempted merge
+  - `>>>>>>>` end of attempted merge section
+- fix merge conflicts and then add, commit and push

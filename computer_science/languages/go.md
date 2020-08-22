@@ -7,7 +7,7 @@ Can also be used in embedded devices, see: https://tinygo.org/
 ### Resources
 
 Tutorials:
-- https://tour.golang.org/welcome/1
+- https://tour.golang.org/
 - https://golang.org/doc/code.html
 - https://golang.org/doc/effective_go.html
 - https://www.golangprograms.com/
