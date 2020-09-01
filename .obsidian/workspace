@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "9477187b3081c8c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9bc12e3ea55d9e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "machine_learning/contrastive_learning/simCLR.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e96a3fa2f06d8d8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c82b77531fdf8ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e3110a48093f7f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24c4487e4e20b8bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a68c22f2d5dd4db",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f228a3a8f29e031",
+    "type": "split",
+    "children": [
+      {
+        "id": "75afd1f7114c095b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53cfdb4008c19ee6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "machine_learning/contrastive_learning/simCLR.md"
+              }
+            }
+          },
+          {
+            "id": "a4f8ace3b3ed92ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "machine_learning/contrastive_learning/simCLR.md",
+    "machine_learning/regularization/dropout.md",
+    "machine_learning/neural_network/graph_neural_network.md",
+    "cryptography/cryptography.md",
+    "machine_learning/natural_language_processing/language_modelling/masked_language_modelling.md"
+  ]
+}
