@@ -1,7 +1,10 @@
 # Reinforcement Learning Frameworks
 
+These are frameworks which implement [[reinforcement_learning]] algorithms.
+
 ## PyTorch
 - https://github.com/rotinov/AGNES
+- https://github.com/SforAiDl/genrl
 
 ## Tensorflow
 - https://github.com/deepmind/acme

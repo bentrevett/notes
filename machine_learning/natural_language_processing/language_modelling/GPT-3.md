@@ -1,5 +1,7 @@
 # GPT-3
 
+The successor to [[GPT-2]].
+
 ### Resources
 
 - https://arxiv.org/abs/2005.14165
@@ -10,3 +12,4 @@
 - https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html
 - https://jalammar.github.io/how-gpt3-works-visualizations-animations/
 - https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype
+- https://github.com/karpathy/minGPT

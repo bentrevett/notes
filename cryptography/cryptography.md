@@ -13,9 +13,12 @@ The common symmetric system is [[AES]] and the most common asymmetric system is 
 - http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/
 - https://cryptopals.com/
 - https://toc.cryptobook.us/
+- https://web.engr.oregonstate.edu/~rosulekm/crypto/
 - https://www.coursera.org/learn/crypto
 - https://www.coursera.org/learn/crypto2
 
+- Serious Cryptography: A Practical Introduction to Modern Encryption
+
 - https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/
 - https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256
-https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/
+- https://qvault.io/2020/07/21/very-basic-intro-to-elliptic-curve-cryptography/
