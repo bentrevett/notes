@@ -1,10 +1,10 @@
 # Contrastive Learning
 
-Contrastive learning is a [[representation_learning]] technique.
+Contrastive learning is a [[representation_learning]] technique commonly used in [[self-supervised_learning]].
 
-The general concept is that the model should learn representations so that similar inputs should have similar representations and dissimilar inputs should have dissimilar representations.
+It is the process of training a classifier to distinguish between “similar” and “dissimilar” input data. For [[MoCo]] and [[simCLR]] specifically, the classifier’s positive examples are modified versions of the same image, while negative examples are other images in the same data set. For example, suppose there is a picture of a dog. In that case, the positive examples could be different crops of that image, while the negative examples could be crops from entirely different images.
 
-Contrastive learning is used by [[siamese_neural_network]] models as well as algorithms such as [[simCLR]] and [[CURL]].
+Contrastive learning is used by [[siamese_neural_network]] models as well as algorithms such as [[MoCo]], [[simCLR]] and [[CURL]].
 
 ### Resources
 
