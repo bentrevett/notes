@@ -6,6 +6,12 @@ For example, given a set of unlabelled images randomly rotate them between 0, 90
 
 This is commonly used for [[representation_learning]] for [[pre-training]] models for [[fine-tuning]] or [[transfer_learning]].
 
+Common algorithms:
+
+- [[simCLR]]
+- [[MoCo]]
+- [[BYOL]]
+
 ### Resources
 
 - https://ai.stackexchange.com/a/10624
