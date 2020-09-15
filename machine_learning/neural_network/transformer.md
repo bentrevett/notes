@@ -15,3 +15,4 @@
 - https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained
 - https://jalammar.github.io/illustrated-transformer/
 - https://blog.floydhub.com/tokenization-nlp/
+- https://thegradient.pub/transformers-are-graph-neural-networks/

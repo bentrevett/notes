@@ -9,6 +9,7 @@ Most commonly when we talk about RL nowadays we mean [[deep_reinforcement_learni
 A common problem faced by RL, especially DRL, is [[sample_efficiency]].
 
 There is quite a lot of terminology for RL:
+
 - [[action]]
 - [[actor-critic]]
 - [[advantage_function]]
@@ -46,6 +47,7 @@ There is quite a lot of terminology for RL:
 - [[value_function]]
 
 Some notable algorithms are:
+
 - [[REINFORCE]]
 - [[A2C]]
 - [[A3C]]
@@ -58,17 +60,23 @@ Some notable algorithms are:
 - [[AlphaZero]]
 
 Other related articles:
+
 - [[reinforcement_learning_frameworks]]
 - [[semi-supervised_reinforcement_learning]]
 - [[text-based_reinforcement_learning]]
 
-### Resources
+### Lectures
 
-- https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e
-- https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
-- https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
-- https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
-- http://www.scholarpedia.org/article/Reinforcement_learning
+- https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 - https://www.davidsilver.uk/teaching/
 - https://sites.google.com/view/deep-rl-bootcamp/lectures
 - http://rail.eecs.berkeley.edu/deeprlcourse/
+
+### Books
+
+- http://incompleteideas.net/book/the-book.html
+
+### Resources
+
+- https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
+- https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
