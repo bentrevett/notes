@@ -67,16 +67,20 @@ Other related articles:
 
 ### Lectures
 
-- https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
-- https://www.davidsilver.uk/teaching/
-- https://sites.google.com/view/deep-rl-bootcamp/lectures
-- http://rail.eecs.berkeley.edu/deeprlcourse/
+- https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
+  - https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB
+  - https://www.davidsilver.uk/teaching/
+  - https://sites.google.com/view/deep-rl-bootcamp/lectures
+  - http://rail.eecs.berkeley.edu/deeprlcourse/
+  - https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
 
 ### Books
 
 - http://incompleteideas.net/book/the-book.html
+- https://rltheorybook.github.io/
 
 ### Resources
 
+- https://arxiv.org/abs/cs/9605103
 - https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
 - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html

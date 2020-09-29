@@ -26,3 +26,4 @@ The LSTM is commonly used in [[natural_language_processing]] tasks such as [[sen
 
 - https://en.wikipedia.org/wiki/Long_short-term_memory
 - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/

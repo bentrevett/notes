@@ -13,3 +13,5 @@ The successor to [[GPT-2]].
 - https://jalammar.github.io/how-gpt3-works-visualizations-animations/
 - https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype
 - https://github.com/karpathy/minGPT
+- https://www.reddit.com/r/MachineLearning/comments/ix16bc/d_deconstructing_the_gpt3_economy/
+- https://www.greaterwrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper

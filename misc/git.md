@@ -16,6 +16,8 @@ Do a commit with `git commit -m "<MESSAGE>"`
 
 Push with `git push` 
 
+If you want to switch branches without commiting, `git stash`
+
 Want to merge your branch with a master that has been updated so you can't automatically merge?
 - `git checkout your_branch`
 - `git fetch origin`
