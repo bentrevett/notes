@@ -13,3 +13,7 @@ The most basic RNN algorithm is the Elman network
 $$h_t = \sigma (W_hx_t+U_hh_{t-1}+b_h)$$
 
 Elman RNNs suffer from both the [[exploding_gradient_problem]] and the [[vanishing_gradient_problem]] so typically RNN variants such as the [[LSTM]] and the [[GRU]] are used.
+
+### Resources
+
+- https://wandb.ai/authors/rnn-viz/reports/Under-the-Hood-of-RNNs--VmlldzoyNTQ4MjY

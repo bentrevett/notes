@@ -68,11 +68,12 @@ Other related articles:
 ### Lectures
 
 - https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
-  - https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB
-  - https://www.davidsilver.uk/teaching/
-  - https://sites.google.com/view/deep-rl-bootcamp/lectures
-  - http://rail.eecs.berkeley.edu/deeprlcourse/
-  - https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+- https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB
+- https://www.davidsilver.uk/teaching/
+- https://sites.google.com/view/deep-rl-bootcamp/lectures
+- http://rail.eecs.berkeley.edu/deeprlcourse/
+- https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+- https://simoninithomas.github.io/deep-rl-course/
 
 ### Books
 
@@ -81,6 +82,7 @@ Other related articles:
 
 ### Resources
 
+- https://www.reddit.com/r/reinforcementlearning/comments/j6lp7v/i_asked_rlexpert_what_and_why_he_logstracks_in/
 - https://arxiv.org/abs/cs/9605103
 - https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
 - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html

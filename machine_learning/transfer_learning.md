@@ -7,3 +7,4 @@ Keeping the pre-trained parameters fixed is known as [[fine-tuning]].
 ### Resources
 
 - https://arxiv.org/abs/1910.10683
+- https://github.com/nyu-mll/jiant
