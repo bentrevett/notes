@@ -15,6 +15,7 @@ There is quite a lot of terminology for RL:
 - [[advantage_function]]
 - [[agent]]
 - [[bellman_equation]]
+- [[bootstrapping]]
 - [[credit_assignment_problem]]
 - [[deadly_triad]]
 - [[discount_factor]]
@@ -40,6 +41,7 @@ There is quite a lot of terminology for RL:
 - [[Q-value]]
 - [[return]]
 - [[reward]]
+- [[semi-supervised_reinforcement_learning]]
 - [[state]]
 - [[temporal_difference_learning]]
 - [[trajectory]]
@@ -68,11 +70,11 @@ Other related articles:
 ### Lectures
 
 - https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
-  - https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB
-  - https://www.davidsilver.uk/teaching/
-  - https://sites.google.com/view/deep-rl-bootcamp/lectures
-  - http://rail.eecs.berkeley.edu/deeprlcourse/
-  - https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+- https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB
+- https://www.davidsilver.uk/teaching/
+- https://sites.google.com/view/deep-rl-bootcamp/lectures
+- http://rail.eecs.berkeley.edu/deeprlcourse/
+- https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
 
 ### Books
 
