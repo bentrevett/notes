@@ -25,6 +25,7 @@ We can think of a language model as a compressor, i.e. if a LM is given the firs
 There is also a variation of the language modelling task called [[masked_language_modelling]].
 
 Common LM algorithms are:
+
 - [[ELMo]]
 - [[BERT]]
 - [[GPT-2]]

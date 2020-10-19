@@ -1,9 +1,8 @@
 # Batch Normalization
 
-
-
 ### Resources
 
+- https://theaisummer.com/normalization/
 - https://e2eml.school/batch_normalization.html
 - https://www.youtube.com/watch?v=XuA58R5sNVQ
 - https://colab.research.google.com/github/davidcpage/cifar10-fast/blob/master/batch_norm_post.ipynb
