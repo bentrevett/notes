@@ -10,7 +10,7 @@ $Q(s_t,a_t)$ is the current predicted Q-value.
 
 $\eta$ is the [[learning_rate]].
 
-$\r_t$ is the [[reward]].
+$r_t$ is the [[reward]].
 
 $\gamma$ is the [[discount_factor]].
 
