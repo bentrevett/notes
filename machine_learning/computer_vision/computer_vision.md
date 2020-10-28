@@ -13,3 +13,4 @@ Common areas of research in computer vision are:
 - http://szeliski.org/Book/
 - http://cs231n.stanford.edu/
 - https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
+- https://github.com/rwightman/pytorch-image-models
