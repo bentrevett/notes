@@ -21,3 +21,4 @@ The [[gym]] framework provides many environments for training RL agents.
 - https://github.com/minqi/wordcraft
 - https://andyljones.com/megastep/
 - https://github.com/mwydmuch/ViZDoom
+- https://github.com/deepmind/open_spiel
