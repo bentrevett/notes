@@ -23,3 +23,5 @@ An example of an offline RL algorithm is the [[world_models]] algorithm.
 - https://arxiv.org/abs/1907.04543
 - https://arxiv.org/abs/2004.07219
 - https://danieltakeshi.github.io/2020/06/28/offline-rl/
+- https://jacobbuckman.com/2020-10-31-updating-the-accepted-wisdom-in-offline-rl/
+- https://twitter.com/kargarisaac/status/1313406101950472192

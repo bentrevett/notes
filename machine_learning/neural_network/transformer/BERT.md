@@ -2,7 +2,8 @@
 
 ### Resources
 
-- https://arxiv.org/abs/1810.04805
+- https://arxiv.org/abs/1810.04805 (original bert paper)
+- https://www.youtube.com/watch?v=-9evrZnBorM (video explaining bert)
 - https://jalammar.github.io/illustrated-bert/
 - https://bertlang.unibocconi.it/
 - https://arxiv.org/abs/2002.12327

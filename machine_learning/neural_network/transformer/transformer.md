@@ -7,7 +7,9 @@
 
 ### Resources
 
-- https://arxiv.org/abs/1706.03762
+- https://arxiv.org/abs/1706.03762 (original paper)
+- https://www.youtube.com/watch?v=iDulhoQ2pro (video explaining original transformer)
+- https://huggingface.co/blog (posts on using transformers)
 - http://peterbloem.nl/blog/transformers
 - http://dugas.ch/artificial_curiosity/GPT_architecture.html
 - https://www.reddit.com/r/MachineLearning/comments/hxvts0/d_breaking_the_quadratic_attention_bottleneck_in/
