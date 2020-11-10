@@ -22,3 +22,5 @@ The [[gym]] framework provides many environments for training RL agents.
 - https://andyljones.com/megastep/
 - https://github.com/mwydmuch/ViZDoom
 - https://github.com/deepmind/open_spiel
+- https://github.com/zuoxingdong/mazelab (randomly generated mazes with solvers)
+- https://github.com/rosewang2008/gym-cooking (multi-agent collaborative cooking environment)

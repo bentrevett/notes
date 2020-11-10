@@ -19,3 +19,4 @@ Common areas of research in NLP are:
 - https://lena-voita.github.io/ (nlp course)
 - https://miro.com/app/board/o9J_ksdMmCY=/ (graph of nlp models)
 - https://elvissaravia.substack.com/p/my-recommendations-for-getting-started (guide to getting started with nlp)
+- https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb (video walkthrough of NLP algorithms)
