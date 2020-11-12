@@ -69,12 +69,12 @@ Other related articles:
 
 ### Lectures
 
-- https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
-- https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB
-- https://www.davidsilver.uk/teaching/
+- https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb (DeepMind x UCL RL course, 2020)
+- https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB (David Silver RL course, 2015)
+- https://www.davidsilver.uk/teaching/ (Notes for the above lecture series)
 - https://sites.google.com/view/deep-rl-bootcamp/lectures
-- http://rail.eecs.berkeley.edu/deeprlcourse/
-- https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+- http://rail.eecs.berkeley.edu/deeprlcourse/ (Berkeley RL course with videos from 2017 to 2020)
+- https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u (Stanford RL course, 2019)
 - https://simoninithomas.github.io/deep-rl-course/
 
 ### Books
@@ -84,7 +84,10 @@ Other related articles:
 
 ### Resources
 
-- https://www.reddit.com/r/reinforcementlearning/comments/j6lp7v/i_asked_rlexpert_what_and_why_he_logstracks_in/
-- https://arxiv.org/abs/cs/9605103
-- https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
-- https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
+- https://karpathy.github.io/2016/05/31/rl/ (introductory blog post)
+- https://arxiv.org/abs/1811.12560 (tutorial paper)
+- https://arxiv.org/abs/cs/9605103 (survey paper)
+- https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html (in-depth tutorial)
+- https://spinningup.openai.com/en/latest/spinningup/rl_intro.html (in-depth tutorial)
+- https://github.com/higgsfield/RL-Adventure (clean implementations)
+- https://www.reddit.com/r/reinforcementlearning/comments/j6lp7v/i_asked_rlexpert_what_and_why_he_logstracks_in/ (what to log in RL experiments)
