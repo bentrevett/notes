@@ -12,3 +12,4 @@ Datasets primarily made up of text.
 - https://archive.org/details/cooking-recipes (50gb of cooking recipes)
 - https://github.com/EleutherAI/The-Pile (huge dataset of text for language modelling)
 - https://github.com/BruceWen120/medal (14M medical articles)
+- https://dki-lab.github.io/GrailQA/ (question answering dataset)

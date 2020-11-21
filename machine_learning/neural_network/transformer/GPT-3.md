@@ -16,3 +16,4 @@ The successor to [[GPT-2]].
 - https://www.reddit.com/r/MachineLearning/comments/ix16bc/d_deconstructing_the_gpt3_economy/
 - https://www.greaterwrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper
 - https://www.youtube.com/watch?v=QMqPAM_knrE&t (video discussing scaling laws w.r.t. GPT-3)
+- https://github.com/EleutherAI/info (open source GPT-3-like replication)

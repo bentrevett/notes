@@ -41,5 +41,9 @@ Common areas for machine learning algorithms:
 
 ### Resources
 
-- https://distill.pub/
-- https://lilianweng.github.io/lil-log/
+- https://distill.pub/ (online interactive journal)
+- https://lilianweng.github.io/lil-log/ (blog)
+- https://github.com/soulmachine/machine-learning-cheat-sheet (cheat sheet)
+- https://github.com/afshinea/stanford-cs-229-machine-learning (cheat sheet)
+- https://github.com/afshinea/stanford-cs-221-artificial-intelligence (cheat sheet)
+- https://github.com/afshinea/stanford-cs-230-deep-learning (cheat sheet)
