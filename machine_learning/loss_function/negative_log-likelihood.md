@@ -2,4 +2,4 @@
 
 Used for classification with more than one class and a single target class.
 
-$$\text{NLL}(\bm{\hat{y}}, y) = -\log(\bm{\hat{y}}[y])$$
+$$\text{NLL}(\boldsymbol{\hat{y}}, y) = -\log(\boldsymbol{\hat{y}}[y])$$

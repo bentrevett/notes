@@ -4,4 +4,4 @@ An action is how an [[agent]] interacts with an [[environment]], thus allowing i
 
 Every action made by the agent rewards a [[reward]] from the environment. The decision of which action to take is decided by the agent's [[policy]] - a function that maps states to actions:
 
-$$\pi_\theta(\bm{s}_t) = \bm{a}_t$$
+$$\pi_\theta(\boldsymbol{s}_t) = \boldsymbol{a}_t$$

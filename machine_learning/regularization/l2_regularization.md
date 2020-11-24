@@ -1,6 +1,6 @@
 # L2 Regularization
 
-L2 regularization, also known as Ridge Regression when used in [[linear_regression]], is a [[regularization]] technique. 
+L2 regularization, also known as Ridge Regression when used in [[linear_regression]], is a [[regularization]] technique.
 
 The L2 regularization term is calculated as:
 
@@ -10,7 +10,7 @@ $\lambda$ is the regularization co-efficient and the $\beta$ terms are the value
 
 This term is added to your [[loss_function]], such as [[mean_squared_error]], like so:
 
-$$L(\bm{\beta, \bm{x}, \bm{y}}) = \sum_{i=1}^N (y_i - \sum_{j=1}^Mx_{ij}\beta_j)^2 + \lambda \sum_{j=1}^M \beta_j^2$$
+$$L(\boldsymbol{\beta, \boldsymbol{x}, \boldsymbol{y}}) = \sum_{i=1}^N (y_i - \sum_{j=1}^Mx_{ij}\beta_j)^2 + \lambda \sum_{j=1}^M \beta_j^2$$
 
 L2 regularization is simplying adding the sum of the squared value of each of our weights, multiplied by a regularization co-efficient, to the loss.
 
