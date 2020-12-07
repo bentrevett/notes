@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9bc12e3ea55d9e",
+        "id": "45340dbb8511762d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "machine_learning/contrastive_learning/simCLR.md",
+            "file": "machine_learning/libraries.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,14 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": "\\bm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -70,7 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "machine_learning/contrastive_learning/simCLR.md"
+                "file": "machine_learning/libraries.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -86,14 +98,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "machine_learning/contrastive_learning/simCLR.md",
-    "machine_learning/regularization/dropout.md",
-    "machine_learning/neural_network/graph_neural_network.md",
-    "cryptography/cryptography.md",
-    "machine_learning/natural_language_processing/language_modelling/masked_language_modelling.md"
+    "machine_learning/libraries.md",
+    "machine_learning/loss_function/negative_log-likelihood.md",
+    "machine_learning/regularization/l2_regularization.md",
+    "machine_learning/regularization/l1_regularization.md",
+    "machine_learning/loss_function/cross-entropy.md",
+    "machine_learning/reinforcement_learning/action.md",
+    "machine_learning/loss_function/mean_squared_error.md",
+    "machine_learning/activation_function/activation_function.md",
+    "actor-critic.md",
+    "machine_learning/contrastive_learning/simCLR.md"
   ]
 }
