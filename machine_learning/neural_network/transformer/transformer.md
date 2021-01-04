@@ -18,3 +18,5 @@
 - https://jalammar.github.io/illustrated-transformer/
 - https://blog.floydhub.com/tokenization-nlp/
 - https://thegradient.pub/transformers-are-graph-neural-networks/
+- http://jalammar.github.io/explaining-transformers/ (visualization/interpretation)
+- https://theaisummer.com/transformer/ (short blog overview of original architecture)

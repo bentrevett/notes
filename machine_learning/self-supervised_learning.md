@@ -18,3 +18,4 @@ Common algorithms:
 ### Resources
 
 - https://ai.stackexchange.com/a/10624
+- https://github.com/lightly-ai/lightly (self-supervised learning library in PyTorch)

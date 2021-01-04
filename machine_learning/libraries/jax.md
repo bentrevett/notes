@@ -2,6 +2,7 @@
 
 https://github.com/google/jax
 https://github.com/google/jax#neural-network-libraries
+https://twitter.com/jekbradbury/status/1337528357517291520 (jax on TPU)
 
 ### Resources
 

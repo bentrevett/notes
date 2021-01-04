@@ -8,3 +8,4 @@
 - https://bertlang.unibocconi.it/
 - https://arxiv.org/abs/2002.12327
 - https://github.com/tomohideshibata/BERT-related-papers
+- https://github.com/yifding/hetseq (library on training BERT-type models)

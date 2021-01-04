@@ -25,3 +25,4 @@ An example of an offline RL algorithm is the [[world_models]] algorithm.
 - https://danieltakeshi.github.io/2020/06/28/offline-rl/
 - https://jacobbuckman.com/2020-10-31-updating-the-accepted-wisdom-in-offline-rl/
 - https://twitter.com/kargarisaac/status/1313406101950472192
+- https://sites.google.com/view/offlinerltutorial-neurips2020/home (offline RL tutorial)

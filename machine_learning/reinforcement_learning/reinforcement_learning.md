@@ -60,6 +60,7 @@ Some notable algorithms are:
 - [[AlphaGo]]
 - [[AlphaGo_Zero]]
 - [[AlphaZero]]
+- [[MuZero]]
 
 Other related articles:
 

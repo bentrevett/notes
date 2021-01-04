@@ -33,6 +33,7 @@ Common areas for machine learning algorithms:
 - https://www.coursera.org/learn/machine-learning
 - https://deepmind.com/learning-resources
 - https://course.fullstackdeeplearning.com/
+- https://www.youtube.com/watch?v=6Nctj1GCFVo&list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf (foundations of deep learning)
 
 ### Courses
 

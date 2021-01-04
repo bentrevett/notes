@@ -4,3 +4,4 @@
 
 - https://sites.google.com/view/mbrl-tutorial
 - https://arxiv.org/abs/2006.16712
+- https://democraticrobots.substack.com/p/mbrl
