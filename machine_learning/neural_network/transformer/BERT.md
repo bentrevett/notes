@@ -9,3 +9,4 @@
 - https://arxiv.org/abs/2002.12327
 - https://github.com/tomohideshibata/BERT-related-papers
 - https://github.com/yifding/hetseq (library on training BERT-type models)
+- https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/
