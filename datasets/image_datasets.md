@@ -10,3 +10,4 @@ Datasets primarily made up of images.
 - MNIST
 - CIFAR10/100
 - ImageNet
+- https://github.com/ShannonAI/OpenViDial (images from movie with text dialogue)
