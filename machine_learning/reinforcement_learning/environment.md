@@ -27,3 +27,4 @@ The [[gym]] framework provides many environments for training RL agents.
 - https://github.com/deepmind/lab2d
 - https://github.com/rajcscw/nlp-gym (nlp tasks with rl-type api)
 - https://griddly.readthedocs.io/en/latest/ (lots of gridworld experiments, results @ https://wandb.ai/griddly)
+- https://jsuarez5341.github.io/neural-mmo/build/html/rst/userguide.html (MMO environment)
