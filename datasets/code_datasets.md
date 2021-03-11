@@ -12,3 +12,10 @@ Datasets primarily made up of source code.
 - https://github.com/tech-srl/slm-code-generation/ (1.3M java examples)
 - https://github.com/tech-srl/code2vec (14M java examples)
 - https://github.com/tech-srl/code2seq (16M java examples)
+- http://leclair.tech/data/funcom/ (2.1M java examples)
+- https://www.sri.inf.ethz.ch/py150 (150k python examples)
+- https://www.microsoft.com/en-us/download/details.aspx?id=56844 (C# programs as graphs)
+- https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset (neural code search dataset)
+- https://bitbucket.org/iiscseal/nbl/src/master/
+- https://github.com/Microsoft/msrc-dpu-learning-to-represent-edits (see paper)
+  - http://www.cs.cmu.edu/˜pengchey/githubedits.zip
