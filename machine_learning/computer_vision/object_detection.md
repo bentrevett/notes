@@ -9,3 +9,7 @@ Common algorithms used are:
 - [[R-CNN]]
 - [[YOLO]]
 - [[U-Net]]
+
+### Resources
+
+- https://github.com/ayoolaolafenwa/PixelLib (library for object segmentation)

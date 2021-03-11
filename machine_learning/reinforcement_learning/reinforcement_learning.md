@@ -77,6 +77,7 @@ Other related articles:
 - http://rail.eecs.berkeley.edu/deeprlcourse/ (Berkeley RL course with videos from 2017 to 2020)
 - https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u (Stanford RL course, 2019)
 - https://simoninithomas.github.io/deep-rl-course/
+- https://www.youtube.com/playlist?list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE
 
 ### Books
 

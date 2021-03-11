@@ -12,6 +12,8 @@ Common algorithms:
 - [[MoCo]]
 - [[BYOL]]
 - [[word2vec]]
+- [[SEER]]
+- [[SwAV]]
 
 [[language_modelling]] is also a type of self-supervised learning.
 
