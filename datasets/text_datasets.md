@@ -17,3 +17,4 @@ Datasets primarily made up of text.
 - https://dki-lab.github.io/GrailQA/ (question answering dataset)
 - https://www.kaggle.com/ltcmdrdata/plain-text-wikipedia-202011 (22GB english wikipedia dump)
 - https://pile.eleuther.ai/ (800GB of text)
+- https://github.com/allenai/allennlp/discussions/5056 (Google's C4 dataset, ~300GB of English text from Common Crawl)

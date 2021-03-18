@@ -7,6 +7,8 @@ These are frameworks which implement [[reinforcement_learning]] algorithms.
 - https://github.com/rotinov/AGNES
 - https://github.com/SforAiDl/genrl
 - https://github.com/astooke/rlpyt
+- https://github.com/MushroomRL/mushroom-rl
+- https://github.com/DLR-RM/stable-baselines3
 
 ## Tensorflow
 
