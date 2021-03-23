@@ -6,5 +6,6 @@ This is usually involves giving the model a piece of text and then asking the mo
 
 Common datasets:
 
-- GLUE
-- SQuAD
+- [[GLUE]]
+- [[SuperGLUE]]
+- [[SQuAD]]

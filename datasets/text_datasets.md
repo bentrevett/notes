@@ -18,3 +18,4 @@ Datasets primarily made up of text.
 - https://www.kaggle.com/ltcmdrdata/plain-text-wikipedia-202011 (22GB english wikipedia dump)
 - https://pile.eleuther.ai/ (800GB of text)
 - https://github.com/allenai/allennlp/discussions/5056 (Google's C4 dataset, ~300GB of English text from Common Crawl)
+- https://github.com/Helsinki-NLP/Tatoeba-Challenge (machine translation)
