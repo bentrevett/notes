@@ -19,3 +19,16 @@ Datasets primarily made up of source code.
 - https://bitbucket.org/iiscseal/nbl/src/master/
 - https://github.com/Microsoft/msrc-dpu-learning-to-represent-edits (see paper)
   - http://www.cs.cmu.edu/˜pengchey/githubedits.zip
+- https://github.com/rajasagashe/juice (1.5M Python notebooks with interleaved natural language and code cells)
+- https://github.com/sola-st/IdBench (pairs of identifiers with measured relatedness and similarity)
+- https://sites.google.com/view/core2019/ (paired code in Java and code reviews)
+  - from: https://arxiv.org/pdf/1912.09652.pdf
+- https://github.com/SoftWiser-group/CoDiSum (Java diffs and commit messages)
+- https://github.com/LittleYUYU/CoaCor (SQL and natural language pairs)
+- https://github.com/sriniiyer/codenn (SQL and natural language pairs)
+- https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset (stackoverflow question and code pairs)
+- https://github.com/xing-hu/EMSE-DeepCom (???)
+- https://github.com/zhangj111/astnn
+- https://groups.inf.ed.ac.uk/cup/comment-locator/ (code with binary "should there be a comment here?" label)
+- https://github.com/microsoft/methods2test (methods and test cases)
+- https://github.com/EdinburghNLP/code-docstring-corpus
