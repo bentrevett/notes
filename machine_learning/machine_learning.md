@@ -25,6 +25,7 @@ Common areas for machine learning algorithms:
 - https://web.stanford.edu/~hastie/ElemStatLearn/
 - https://www.deeplearningbook.org/
 - https://mml-book.github.io/
+- https://d2l.ai
 
 ### Lectures
 
@@ -40,6 +41,7 @@ Common areas for machine learning algorithms:
 
 - https://d2l.ai/
 - https://fleuret.org/ee559/
+- https://cs182sp21.github.io/
 
 ### Resources
 

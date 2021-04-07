@@ -1,6 +1,6 @@
 # GPT-3
 
-The successor to [[GPT-2]].
+A [[language_model]]. The successor to [[GPT-2]]. Shows the power of [[zero-shot_learning]].
 
 ### Resources
 
