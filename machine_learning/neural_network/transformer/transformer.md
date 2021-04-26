@@ -21,3 +21,4 @@
 - http://jalammar.github.io/explaining-transformers/ (visualization/interpretation)
 - https://theaisummer.com/transformer/ (short blog overview of original architecture)
 - https://jalammar.github.io/explaining-transformers/ (visualization in transformers)
+- https://github.com/lucidrains/x-transformers (library with lots of SotA Transformer variants implemented)

@@ -19,3 +19,4 @@ Datasets primarily made up of text.
 - https://pile.eleuther.ai/ (800GB of text)
 - https://github.com/allenai/allennlp/discussions/5056 (Google's C4 dataset, ~300GB of English text from Common Crawl)
 - https://github.com/Helsinki-NLP/Tatoeba-Challenge (machine translation)
+- https://github.com/allenai/gooaq (3 million questions and answers from Google search)
