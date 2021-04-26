@@ -15,3 +15,4 @@ GPT-2 is an architecture for [[language_modelling]]. It is a large [[transformer
 - https://github.com/karpathy/minGPT
 - http://reyfarhan.com/posts/easy-gpt2-finetuning-huggingface/
 - https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html
+- https://github.com/Xirider/finetune-gpt2xl

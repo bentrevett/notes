@@ -68,6 +68,8 @@ Other related articles:
 - [[semi-supervised_reinforcement_learning]]
 - [[text-based_reinforcement_learning]]
 
+### Resource
+
 ### Lectures
 
 - https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb (DeepMind x UCL RL course, 2020)
@@ -93,3 +95,4 @@ Other related articles:
 - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html (in-depth tutorial)
 - https://github.com/higgsfield/RL-Adventure (clean implementations)
 - https://www.reddit.com/r/reinforcementlearning/comments/j6lp7v/i_asked_rlexpert_what_and_why_he_logstracks_in/ (what to log in RL experiments)
+- https://andyljones.com/posts/rl-debugging.html (how to debug RL)

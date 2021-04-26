@@ -14,6 +14,7 @@ Common algorithms:
 - [[word2vec]]
 - [[SEER]]
 - [[SwAV]]
+- [[Barlow_Twins]]
 
 [[language_modelling]] is also a type of self-supervised learning.
 
