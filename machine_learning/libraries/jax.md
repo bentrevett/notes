@@ -10,3 +10,5 @@ https://twitter.com/jekbradbury/status/1337528357517291520 (jax on TPU)
 - https://jax.readthedocs.io
 - https://colinraffel.com/blog/you-don-t-know-jax.html
 - https://roberttlange.github.io/posts/2020/03/blog-post-10/
+- http://willwhitney.com/parallel-training-jax.html
+- https://jax.readthedocs.io/en/latest/autodidax.html

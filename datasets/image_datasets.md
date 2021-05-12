@@ -12,3 +12,4 @@ Datasets primarily made up of images.
 - CIFAR10/100
 - ImageNet
 - https://github.com/ShannonAI/OpenViDial (images from movie with text dialogue)
+- https://github.com/google-research-datasets/wit (image and text pairs from Wikipedia)

@@ -14,3 +14,4 @@ Both MLPs in BYOL use [[batch_normalization]] after the first linear layer only.
 
 - https://arxiv.org/abs/2006.07733
 - https://untitled-ai.github.io/understanding-self-supervised-contrastive-learning.html
+- https://github.com/DonkeyShot21/essential-BYOL (implementation)
