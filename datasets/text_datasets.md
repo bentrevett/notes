@@ -21,3 +21,7 @@ Datasets primarily made up of text.
 - https://github.com/Helsinki-NLP/Tatoeba-Challenge (machine translation)
 - https://github.com/allenai/gooaq (3 million questions and answers from Google search)
 - https://github.com/Glorf/recipenlg (2M cooking recipes)
+- https://allenai.org/data/qasper (papers and questions)
+- https://github.com/thunlp/Few-NERD (NER dataset)
+- https://github.com/salesforce/QAConv (QA dataset)
+- https://github.com/salesforce/booksum (book summarization)

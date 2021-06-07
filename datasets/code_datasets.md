@@ -33,3 +33,4 @@ Datasets primarily made up of source code.
 - https://github.com/microsoft/methods2test (methods and test cases)
 - https://github.com/EdinburghNLP/code-docstring-corpus
 - https://github.com/IBM/Project_CodeNet
+- https://github.com/hendrycks/apps

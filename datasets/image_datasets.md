@@ -13,3 +13,4 @@ Datasets primarily made up of images.
 - ImageNet
 - https://github.com/ShannonAI/OpenViDial (images from movie with text dialogue)
 - https://github.com/google-research-datasets/wit (image and text pairs from Wikipedia)
+- https://textvqa.org/textocr (images with annotated OCR text)
