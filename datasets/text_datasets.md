@@ -25,3 +25,7 @@ Datasets primarily made up of text.
 - https://github.com/thunlp/Few-NERD (NER dataset)
 - https://github.com/salesforce/QAConv (QA dataset)
 - https://github.com/salesforce/booksum (book summarization)
+- https://gigaword.dk/ (2.2gb of Danish text)
+- https://github.com/facebookresearch/flores (translation dataset with 101 languages)
+- https://github.com/bfelbo/DeepMoji (tweets with emojis)
+- https://github.com/google-research-datasets/boolean-questions (yes/no questions)
