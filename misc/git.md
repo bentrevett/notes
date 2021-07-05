@@ -27,3 +27,8 @@ Want to merge your branch with a master that has been updated so you can't autom
   - `=======` indicates end of the end of this section and beginning of edits from attempted merge
   - `>>>>>>>` end of attempted merge section
 - fix merge conflicts and then add, commit and push
+
+### Resources
+- http://blog.danieljanus.pl/2021/07/01/commit-groups/
+- https://sethrobertson.github.io/GitBestPractices/
+- https://missing.csail.mit.edu/2020/version-control/
