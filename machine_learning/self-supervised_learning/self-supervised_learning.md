@@ -25,3 +25,4 @@ Common algorithms:
 - https://amitness.com/2020/02/illustrated-self-supervised-learning/
 - https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence
 - https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
+- https://github.com/vturrisi/solo-learn

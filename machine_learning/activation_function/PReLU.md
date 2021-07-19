@@ -11,4 +11,3 @@ x & \text{for } x \ge 0
 $\alpha$ is a learnable parameter which can either be the same across the whole channel or separate for each channel.
 
 A variant of the PReLU where $\alpha$ is fixed to some constant is the [[leaky_ReLU]].
-

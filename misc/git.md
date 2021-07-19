@@ -29,6 +29,7 @@ Want to merge your branch with a master that has been updated so you can't autom
 - fix merge conflicts and then add, commit and push
 
 ### Resources
+
 - http://blog.danieljanus.pl/2021/07/01/commit-groups/
 - https://sethrobertson.github.io/GitBestPractices/
 - https://missing.csail.mit.edu/2020/version-control/
