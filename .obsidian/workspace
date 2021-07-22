@@ -6,12 +6,11 @@
       {
         "id": "45340dbb8511762d",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "machine_learning/libraries.md",
-            "mode": "source"
+            "file": "machine_learning/loss_function/negative_log-likelihood.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,10 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "machine_learning/libraries.md",
+                "file": "machine_learning/loss_function/negative_log-likelihood.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,25 +92,30 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
+  "active": "45340dbb8511762d",
   "lastOpenFiles": [
-    "machine_learning/libraries.md",
     "machine_learning/loss_function/negative_log-likelihood.md",
-    "machine_learning/regularization/l2_regularization.md",
-    "machine_learning/regularization/l1_regularization.md",
-    "machine_learning/loss_function/cross-entropy.md",
-    "machine_learning/reinforcement_learning/action.md",
-    "machine_learning/loss_function/mean_squared_error.md",
+    "machine_learning/loss_function/loss_function.md",
+    "machine_learning/optimization/gradient_descent.md",
+    "machine_learning/optimization/backpropagation.md",
     "machine_learning/activation_function/activation_function.md",
-    "actor-critic.md",
-    "machine_learning/contrastive_learning/simCLR.md"
+    "2021-07-19.md",
+    "shit_ideas/Untitled.md",
+    "2021-07-12.md",
+    "machine_learning/neural_network/neural_network.md",
+    "machine_learning/libraries.md"
   ]
 }
